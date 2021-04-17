@@ -5,12 +5,12 @@
 ### Estructura del repositorio
 
 ```
-2021-UTN-FRC-ISW-4K4-G11-TP4
+2021-UTN-FRC-ISW-4K4-G11
 ├── Material de cátedra
 │   ├── Documentos
 │   ├── Filminas
 │   ├── Guías Framework
-│   └── Material de Clases│         
+│   └── Material de Clases         
 │   
 ├── Trabajos
 │   ├── Guías de trabajos
