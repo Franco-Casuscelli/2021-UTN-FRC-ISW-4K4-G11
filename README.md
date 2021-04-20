@@ -31,6 +31,7 @@
 | Material usado en clase | Material \<nro> - \<nombre-mat>.pdf | /Material de cátedra/Material de clases
 | Guías de trabajos | GUIA - \<nombre-guía> - 2021.pdf | /Trabajos/Guías de trabajos
 | Prácticos no Evaluables | TP\<nro-tp> - \<nombre-tpNE>.pdf | /Trabajos/Trabajos Prácticos/Prácticos No Evaluables
+| Prácticos Evaluables | TP\<nro-tp> - \<nombre-tpE>.pdf | /Trabajos/Trabajos Prácticos/Prácticos Evaluables
 
 ### Glosario
 
